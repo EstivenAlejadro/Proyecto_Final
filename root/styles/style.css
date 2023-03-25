@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    height: 55px;
+    width: 150px;
+    left: 41px;
+    top: 23px;
+    border-radius: 0px;
+}
+
+#text1{
+    font-family: 'Plus Jakarta Sans', 
+    sans-serif;
+}
+
+.character{
+    height: 200px;
+    width: 200px;
+    left: 200px;
+    top: 226px;
+    border-radius: 50px 0 0 0;
+}
+
+.texto_footer{
+    content: 20px;
+    padding: 10px;
+}
+
+.contenedor_footer{
+    padding: 10px;
+    background-color: #306BB3;
+    display: flex;
+}
+
+.contenedor_redes{
+    margin-left: 5px;
+}
+
+.facebook{
+    border-radius: 50px;
+    background-color: white;
+}
+
+.twitter{
+    background-color: white;
+    border-radius: 50px;
+}
+
+.instagram{
+    background-color: white;
+    border-radius: 50px;
+}
